@@ -1,0 +1,86 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#outer {
+	width: 100%;
+	height: 700px;
+	background-color: grey;
+}
+
+#header {
+	width: 100%;
+	height: 200px;
+	background-color: blue;
+}
+
+#header1 {
+	width: 100%;
+	height: 100px;
+	background-color: pink;
+}
+
+#header2 {
+	width: 100%;
+	height: 100px;
+	background-color: red;
+	padding: 8px;
+}
+
+#logo {
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	float: left;
+}
+
+#banner {
+	width: 1248px;
+	height: 100px;
+	background-color: black;
+	float: left;
+}
+
+#ViewTrain {
+	width: 400px;
+	height: 100px;
+	background-color: #6495ED;
+	float: left;
+	line-height: 80px;
+}
+
+#BookTrain {
+	width: 475px;
+	height: 100px;
+	background-color: #4169E1;
+	float: left;
+	line-height: 80px;
+}
+
+#CancelTrain {
+	width: 35%;
+	height: 100px;
+	background-color: blue;
+	float: left;
+	line-height: 80px;
+}
+
+#subBody {
+	width: 450px; 
+	height: 250px;
+	 margin: 100px; 
+	 margin-left: 400px; 
+	  padding: 40px;  
+	background-color:
+}
+
+#AdminLogin {
+	border-bottom: 10px;
+	position: relative;
+}
+
+#userName {
+	width: 450px;
+	height: 35px;
+}
